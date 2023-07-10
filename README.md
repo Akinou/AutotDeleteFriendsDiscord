@@ -11,8 +11,8 @@ Ce script Python vous permet d'analyser l'activité de vos amis sur Discord et d
 
 ## Configuration
 
-1. Obtenez un token de bot Discord en créant une application bot sur [le portail développeur Discord](https://discord.com/developers/applications).
-2. Remplacez `VOTRE_TOKEN_DE_BOT_DISCORD` par votre token dans le fichier `discord_friends.py`.
+1. Obtenez votre token Discord 
+2. Remplacez `VOTRE_TOKEN_DISCORD` par votre token dans le fichier `discord_friends.py`.
 
 ## Utilisation
 
